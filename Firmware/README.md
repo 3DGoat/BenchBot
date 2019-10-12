@@ -22,3 +22,13 @@
   - Z settings made for BLTouch with mesh bed leveling 4*4
   - Steps/mm X,Y,Z,E  160, 80, 400, 96
   - Thermal settings set for Ubis 13s
+  - Last Version of Marlin
+  
+## 2.0 Duet wifi Config
+   Firmware made for full sized BenchBot 
+   - Currently Tested
+   - Made for manual hinge Z-probe
+   - Steps/mm X,Y,Z,E  160, 80, 400, 96
+   - Thermal settings set for Ubis 13s
+   - Sugguested mesh bed leveling spacing X=30 Y20
+   
